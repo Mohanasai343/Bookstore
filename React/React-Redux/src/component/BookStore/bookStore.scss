@@ -1,0 +1,47 @@
+.container{
+    margin: 0 auto;
+    width: 800px;
+    height: 500px;
+    position: relative;
+    top: 70px;
+}
+
+.listPage{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 150px;
+    font-size: large;
+}
+
+.listPage1{
+    padding: 5px;
+    width: 150px;
+    font-size: large;
+}
+
+.addPage{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 150px;
+    margin: 10px;
+    font-size: large;
+}
+
+.addPage1{
+    padding: 5px;
+    width: 150px;
+    margin: 10px;
+    font-size: large;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+.list_data{
+    display: flex;
+    flex-wrap: wrap;
+}

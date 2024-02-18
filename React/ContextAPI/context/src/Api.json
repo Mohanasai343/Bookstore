@@ -1,0 +1,8 @@
+
+    {
+        "timeperiod" : ["Current Week" , "Previous Week" , "Current Quarter" , "Previous Quarter" , "Rolling 12 Qtrs" , "Current FY" , "Previous FY" , "Custom"],
+        "geo":["1","24","50","44","78","2","35","60"],
+        "rtm":["box","square","pyramid","circle","traingle","rectangle","holo"],
+        "partnergroup":["html","css","oracle","java","python","c","angular"],
+        "partner":["ram","rom","processor","storage","pixcle","resolution"]
+    }

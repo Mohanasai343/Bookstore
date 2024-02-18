@@ -1,0 +1,30 @@
+.sub_div{
+    width: 1655px;
+    height: 64px;
+    box-shadow: 1px 1px 8px 1px rebeccapurple;
+    margin-top: 30px;
+    display: flex;
+}
+
+.main{
+    display: flex;
+}
+
+.styling{
+    width: 191px;
+    height: 49px;
+    border-radius: 22px;
+    text-align: center;
+    line-height: 52px;
+    background-color: thistle;
+    margin-left: 22px;
+}
+
+.delete{
+    cursor: pointer;
+}
+
+.alldelete{
+    width: 100px;
+    height: 123px;
+}

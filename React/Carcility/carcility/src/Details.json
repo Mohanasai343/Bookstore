@@ -1,0 +1,195 @@
+{
+    "Job":[
+    {
+        "id":1,
+        "requestdate":"Jan 7 2017",
+        "status":"Expired",
+        "quote":"120 AED",
+        "model":"Toyato Etios",
+        "details":"Ac heating & Cooling",
+        "area":"West Brody"
+    },
+    {
+        "id":2,
+        "requestdate":"Otc 17 2017",
+        "status":"Declined",
+        "quote":"120 AED",
+        "model":"Toyato Etios",
+        "details":"Regular Service",
+        "area":"Tracy Fort"
+    },
+    {
+        "id":3,
+        "requestdate":"May 2 2017",
+        "status":"Completed",
+        "quote":"120 AED",
+        "model":"Ford Endeavour",
+        "details":"Ac heating & Cooling",
+        "area":"south Blairmouth"
+    },
+    {
+        "id":4,
+        "requestdate":"Aug 10 2017",
+        "status":"Declined",
+        "quote":"120 AED",
+        "model":"Toyato Etios",
+        "details":"Body Work",
+        "area":"Harberton"
+    },
+    {
+        "id":5,
+        "requestdate":"Aug 8 2017",
+        "status":"Declined",
+        "quote":"120 AED",
+        "model":"Toyato Etios",
+        "details":"Regular Service",
+        "area":"Armstrongland"
+    },
+    {
+        "id":6,
+        "requestdate":"Jul 1 2017",
+        "status":"Declined",
+        "quote":"120 AED",
+        "model":"Honda Civic",
+        "details":"Awesome Car wash",
+        "area":"Fayhaven"
+    },
+    {
+        "id":7,
+        "requestdate":"May 28 2017",
+        "status":"Declined",
+        "quote":"120 AED",
+        "model":"Ford Endeavour",
+        "details":"Regular Service",
+        "area":"Port Alena"
+    }
+],
+    "today": [
+      {
+        "id": "N12557",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Alto",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N95863",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N95863",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N36375",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "repair",
+        "model": "Alto",
+        "repair": "A/C Heating and Cooling"
+      },
+      {
+        "id": "N31977",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Audi",
+        "repair": "A/C Heating and Cooling"
+      },
+      {
+        "id": "N31039",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Etios",
+        "repair": "A/C Heating and Cooling"
+      },
+      {
+        "id": "N47586",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Brakes"
+      },
+      {
+        "id": "N47586",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Brakes"
+      },
+      {
+        "id": "N47586",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Brakes"
+      },
+      {
+        "id": "N37419",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Coolant"
+      },
+      {
+        "id": "N37419",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Coolant"
+      },      {
+        "id": "N37419",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Coolant"
+      }
+    ],
+    "tomorrow": [
+      {
+        "id": "N57980",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Hexa",
+        "repair": "Oil Change"
+      },
+      {
+        "id": "N57980",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Oil Change"
+      },
+      {
+        "id": "N57980",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "repair",
+        "model": "Hexa",
+        "repair": "Oil Change"
+      },
+      {
+        "id": "N57980",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Hexa",
+        "repair": "Oil Change"
+      },
+      {
+        "id": "N57980",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "repair",
+        "model": "Hexa",
+        "repair": "Oil Change"
+      },
+      {
+        "id": "N57980",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Oil Change"
+      }
+]}

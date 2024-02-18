@@ -1,0 +1,120 @@
+body {
+    background-color: #2339B6;
+}
+
+.headerImage {
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.signinForm {
+    margin-left: 400px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.username {
+    color: #FAFAFA;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+
+}
+
+.password {
+    color: #FAFAFA;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+.usernameInput {
+    width: 300px;
+    padding: 12px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: none;
+    margin-top: 11px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    outline: 2px solid transparent;
+}
+
+.usernameInput:focus::placeholder{
+    color: transparent;
+}
+
+.passwordInput {
+    width: 300px;
+    padding: 12px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: none;
+    margin-top: 11px;
+    font-size: 16px;
+    font-weight: 400;
+    outline: 2px solid transparent;
+}
+
+.passwordInput:focus::placeholder{
+    color: transparent;
+}
+
+.footer{
+    display: flex;
+    margin: 41px 83px;
+    gap: 33px;
+}
+
+.changePassword{
+    color: #F3F3F3;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.changePassword:hover{
+    color: lightskyblue;
+    border-bottom: 2px solid lightskyblue;
+}
+
+.signIn{
+    padding: 15px 16px 17px 16px;
+    color: #2339B6;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+.signIn:disabled{
+    background-color: lightslategray;
+    color: black;
+    cursor:not-allowed;
+}
+
+.errorUser{
+    color: red;
+    margin: 0;
+    padding: 0;
+    display: contents;
+}
+
+.errorPassword{
+    color: red;
+    margin: 0;
+    padding: 0;
+    display: contents;
+}
+
+.info{
+    color: red;
+}
+
+@media (max-width: 952px){
+    
+}

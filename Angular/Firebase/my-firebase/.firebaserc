@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "new-firebase-4d73c": {
+      "hosting": {
+        "my-firebase": [
+          "new-firebase-4d73c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "new-firebase-4d73c"
+  }
+}

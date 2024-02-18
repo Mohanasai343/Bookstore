@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Open+Sans&display=swap');
+
+.consecutive {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: #1D1D1F;
+    font-weight: 600;
+    letter-spacing: -0.26px;
+    padding: 20px;
+}
+
+.selected_items {
+    width: 194px;
+    height: 48px;
+    background: rgba(41, 151, 255, 0.20);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.body_box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.year_selection {
+    display: flex;
+    gap: 10px;
+    padding: 23px;
+}
+
+.years_list {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 400;
+    background-color: #0071E3 ;
+    border-radius: 22px;
+}
+
+.year_text {
+    border-right: 1px solid gray;
+    padding-right: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #1D1D1F;
+    text-align: center;
+    font-weight: 600;
+}

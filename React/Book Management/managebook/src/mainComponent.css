@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://itkamtech.com/storage/uploads/blogs/library-slider-img-3_1653482722.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.main_div{
+    width: 673px;
+    height: 500px;
+   margin: 0 auto;
+   text-align: center;
+   padding-top: 70px;
+}
+
+.switch_div{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 20px;
+   cursor: pointer;
+}
+
+.add{
+   background-color: white;
+   color: black;
+   padding: 5px;
+   width: 120px;
+}
+
+.add:active{
+    background-color: black;
+    color: white;
+}
+
+.list{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 120px;
+}
+
+.add1{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 120px;
+}

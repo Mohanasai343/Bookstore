@@ -1,0 +1,87 @@
+.main_data {
+  height: 370px;
+  border-radius: 10px;
+  margin: 20px 20px;
+  box-shadow: 0 9px 12px -5px black;
+}
+
+
+.main_data table {
+  border-spacing: 0;
+  text-align: center;
+  margin: 20px;
+}
+
+table th {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border-bottom: 2px solid black;
+}
+
+table tr {
+  border-bottom: 1px solid grey;
+}
+
+
+table td {
+  width: 600px;
+  font-size: 14px;
+  font-weight: 500;
+  border-bottom: 1px solid grey;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(231, 238, 241);
+}
+
+.notification{
+    border: 2px solid orangered;
+    color: orangered;
+    border-radius: 100%;
+    height: 19px;
+    width: 17px;
+    float: left;
+    margin-top: 12px;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.notification .hiddenText{
+  visibility: hidden;
+  position: absolute;
+  width: 400px;
+  height: 150px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  box-shadow: 0 0 3px 1px black;
+}
+
+.notification:hover .hiddenText{
+ visibility: visible;
+  cursor: pointer;
+}
+
+
+.pagination{
+  display: flex;
+}
+
+.page_item{
+  box-shadow: 0 0 1px 1px;
+  padding: 10px;
+  background-color: rgb(47, 43, 43);
+  color: white; 
+  cursor: pointer;
+}
+.active{
+  background-color:cornflowerblue;
+}
+
+.num_item{
+  box-shadow: 0 0 1px 1px;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}

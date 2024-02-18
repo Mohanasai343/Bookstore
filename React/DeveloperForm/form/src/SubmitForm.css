@@ -1,0 +1,94 @@
+.container{
+    box-shadow: 0px 0px 8px 1px black;
+    width: 530px;
+    height: 900px;
+    border-radius: 10px;
+}
+
+.inputs{
+ width: auto;
+ margin-top: 20px;
+ margin-left: 25px;
+}
+input{
+    margin: 5px;
+}
+
+.text{
+    margin-left: 30px;
+}
+
+.gender{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.border_line{
+   box-shadow: 0px 1px 0px 0px;
+   width: 470px;
+   color: grey;
+}
+
+.dot{
+    color: white;
+    margin-top: -11px;
+}
+
+.languages{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 391px;
+    margin-left: 10px;
+}
+
+p{
+width: 98px;
+}
+
+.tech{
+    margin-left: 30px;
+}
+
+.border_line1{
+    box-shadow: 0px 1px 0px 0px;
+    width: 470px;
+    color: grey;
+    margin-left: 25px;
+}
+
+.dot1{
+    color: white;
+    margin-top: -11px;
+}
+
+.question{
+    margin-left: 30px;
+}
+
+.que_div{
+    margin-left: 30px;
+}
+
+.que1{
+    width: 400px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+}
+
+.submit{
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.reset{
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+}
+

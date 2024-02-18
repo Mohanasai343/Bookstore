@@ -1,0 +1,223 @@
+.dialogbox {
+    width: 920px;
+    height: auto;
+    background-color: #FFF;
+    padding: 1px 25px 20px 15px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 500px;
+    right: 185px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+.changepassword {
+    padding: 0;
+    margin: 0;
+    padding-top: 20px;
+    color: #0C2D4D;
+    font-size: 32px;
+    font-weight: 300;
+    border-bottom: 2px solid #D8DFE6;
+    padding-bottom: 8px;
+}
+
+.close {
+    position: absolute;
+    left: 899px;
+    bottom: 422px;
+    font-size: xx-large;
+    border: 2px solid #D8DFE6;
+    border-radius: 5px;
+    color: #0C2D4D;
+    cursor: pointer;
+}
+
+.bodyBlock {
+    margin-top: 32px;
+    display: flex;
+}
+
+.dialogUsername {
+    margin: 0;
+    padding: 0;
+    color: #6D8194;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.currentpassword {
+    margin: 0;
+    padding: 0;
+    color: #6D8194;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.newpassword {
+    margin: 0;
+    padding: 0;
+    color: #6D8194;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.dialogUserInput {
+    width: 420px;
+    padding: 12px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: 2px solid transparent;
+    background: rgb(246, 245, 245);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.dialogUserInput:focus::placeholder {
+    color: transparent;
+}
+
+.dialogPassword {
+    width: 420px;
+    padding: 12px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: 2px solid transparent;
+    background: rgb(246, 245, 245);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.dialogPassword:focus::placeholder {
+    color: transparent;
+}
+
+.dialogNew {
+    width: 420px;
+    padding: 12px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: 2px solid transparent;
+    background: rgb(246, 245, 245);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.dialogNew:focus::placeholder {
+    color: transparent;
+}
+
+.confirmnew{
+    top: 210px;
+    position: relative;
+    left: 145px;
+    margin: 0;
+    padding: 0;
+    color: #6D8194;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: -111px;
+}
+
+.confirmpassword{
+    width: 420px;
+    padding: 12px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: 2px solid transparent;
+    background: rgb(246, 245, 245);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.confirmpassword:focus::placeholder {
+    color: transparent;
+}
+
+.submitForm{
+    display: flex;
+    gap: 26px;
+    justify-content: end;
+    position: relative;
+}
+
+.cancel{
+    cursor: pointer;
+    width: 90px;
+    height: 46px;
+    border: 2px solid #2339B6;
+    color: #2339B6;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.confirm{
+
+    cursor: pointer;
+    width: 90px;
+    height: 46px;
+    border: 2px solid #2339B6;
+    color: #2339B6;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.confirm:disabled{
+    cursor: not-allowed;
+    width: 90px;
+    height: 46px;
+    border: none;
+    color: black;
+    background: rgb(246, 245, 245);
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.errorUser{
+    color: red;
+    padding: 0;
+    margin: 0;
+}
+
+.errorCurrent{
+    color: red;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+.errorNew{
+    color: red;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+.errorConfirm{
+    color: red;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+.userInputError{
+    margin-bottom: 35px;
+}
+
+.passwordInputError{
+    margin-bottom: 35px;
+}
+
+.newPasswordInputError{
+    margin-bottom: 35px;
+}
+
+.confirmNewInputError{
+    margin-top: 239px;
+    position: relative;
+}

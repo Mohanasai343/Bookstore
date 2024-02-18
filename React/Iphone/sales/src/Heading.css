@@ -1,0 +1,42 @@
+.products{
+    display: flex;
+  gap: 85px;
+}
+
+.sub_head{
+    display: flex;
+    gap: 60px;
+    line-height: 77px;
+}
+
+.main_row{
+    width: 185px;
+}   
+
+.access{
+    display: flex;
+    gap: 79px;
+    line-height: 38px;
+}
+
+.value{
+    margin-top: -12px;
+}
+
+.main{
+    display: flex;
+}
+
+.home{
+    display: flex;
+    gap: 79px;
+    line-height: 36px;
+    margin-left: 99px;
+}
+
+.ipad{
+    display: flex;
+    gap: 79px;
+    line-height: 36px;
+    margin-left: 99px; 
+}

@@ -1,0 +1,57 @@
+.formhead{
+    display: flex;
+    justify-content: center;
+}
+
+.formcontainer{
+    border: 2px solid gray;
+    width: 300px;
+    height: 269px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px 1px black;
+}
+
+.dropdown{
+    bottom: 38px;
+    width: 173px;
+    position: relative;
+    left: 27px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.name{
+    margin-right: 204px;
+    margin-top: -15px;
+    margin-bottom: -20px;
+}
+
+.breed{
+    margin-right: 204px;
+}
+
+.text{
+    margin-top: -38px;
+    margin-left: 54px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.file{
+    margin-left: 58px;
+    margin-top: 50px;
+}
+
+.submit{
+    margin-top: 52px;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
+
+ 

@@ -1,0 +1,48 @@
+.list_items{
+    width: 291px;
+    height: 155px;
+    border-radius: 10px;
+    text-align: start;
+    padding: 15px;
+    background-color: #D3D3D3;
+    position: relative;
+}
+
+.title{
+    margin: 0;
+    padding: 0;
+}
+
+.bottom_border{
+color: black;
+}
+
+.main_list{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content:flex-start;
+    gap: 10px;
+    padding-top: 15px;
+}
+
+.edit{
+    background-color: white;
+    color: black;
+    width: 60px;
+    padding: 6px;
+    cursor: pointer;
+}
+
+.delete{
+    background-color: white;
+    color: red;
+    width: 60px;
+    padding: 6px;
+    cursor: pointer;
+}

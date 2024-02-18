@@ -1,0 +1,41 @@
+.dropDown_div{
+    position: relative;
+    width: 188px;
+    height: 55px;
+    border-radius: 22px;
+    box-shadow: 1px 1px 1px 1px lightblue;
+}
+
+.drop_down{
+    position: absolute;
+    box-shadow: 1px 4px 1px 3px lightsteelblue;
+    background-color: lightsteelblue;
+    border-radius: 5px;
+    width: 142px;
+    top: 86px;
+    cursor: pointer;
+}
+
+.down_arrow{
+    position: absolute;
+    top: 22px;
+    left: 165px;
+    cursor: pointer;
+}
+
+.lable{
+    display: flex;
+    justify-content: center;
+}
+
+.select{
+    position: absolute;
+    top: 17px;
+    left: 30px;
+}
+
+.correct{
+    position: absolute;
+    left: 125px;
+    color: red;
+}

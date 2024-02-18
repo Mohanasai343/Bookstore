@@ -1,0 +1,89 @@
+{
+    "yearData" : [
+        {
+            "year":"FY23"
+        },
+        {
+            "year":"FY22"
+        },
+        {
+            "year":"FY21"
+        },
+        {
+            "year":"FY20"
+        },
+        {
+            "year":"FY19"
+        }
+    ],
+    "quaterData" : [
+        {
+            "quater" : "Q1"
+        }, 
+        
+        {
+            "quater" : "Q2"
+        }, 
+        
+        {
+            "quater" : "Q3"
+        }, 
+        
+        {
+            "quater" : "Q4"
+        }
+    ],
+    "weekData" : [
+        {
+            "week" : "W1"
+        },
+
+        {
+            "week" : "W2"
+        },
+
+        {
+            "week" : "W3"
+        },
+
+        {
+            "week" : "W4"
+        },
+
+        {
+            "week" : "W5"
+        },
+
+        {
+            "week" : "W6"
+        },
+
+        {
+            "week" : "W7"
+        },
+
+        {
+            "week" : "W8"
+        },
+
+        {
+            "week" : "W9"
+        },
+
+        {
+            "week" : "W10"
+        },
+
+        {
+            "week" : "W11"
+        },
+
+        {
+            "week" : "W12"
+        },
+
+        {
+            "week" : "W13"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Open+Sans:wght@500&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg");
+    background-size: 100% auto;
+}
+
+.container{  
+    width: 333px;
+    height: 440px;
+    margin-top: 110px;
+}
+
+.welcome{
+    font-size: xx-large;
+}
+
+.text{
+    color: cadetblue;
+    letter-spacing: -1px;
+}
+
+.maildiv{
+    position: relative;
+    display: flex;
+}
+
+.email{ 
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(209, 227, 243);
+    width: 310px;
+    text-align:center;
+}
+
+.mailicon{
+    position: absolute;
+    padding: 5px;
+    background-color: white;
+    left: 4px;
+    top: 5px;
+    border-radius: 5px;
+}
+
+.passworddiv{
+    position: relative;
+    display: flex;
+}
+
+.passwordicon{
+    position: absolute;
+    padding: 5px;
+    background-color: white;
+    left: 4px;
+    top: 5px;
+    border-radius: 5px;
+}
+
+.hide{
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    color: lightslategray;
+}
+
+.password{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(209, 227, 243);
+    width: 310px;
+    text-align:center;
+}
+
+.forgot{
+    color: black;
+    font-family: Montserrat;
+    display: flex;
+    justify-content: end;
+}
+
+.logindiv{
+    background-color:rgb(101, 101, 234) ;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.logintext{
+    color: white;
+}
+
+.ortext{
+margin: 100px auto;
+text-align: center;
+font-size: 30px;
+max-width: 600px;
+position: relative;
+}
+
+.ortext:after{
+content: "";
+display: block;
+width: 120px;
+height: 2px;
+left: 0;
+top: 50%;
+position: absolute;
+background-color: black;
+}
+
+.ortext:before{
+    content: "";
+    display: block;
+    width: 120px;
+    height: 2px;
+    left: 0;
+    top: 50%;
+    position: absolute;
+    background-color: black;
+    }

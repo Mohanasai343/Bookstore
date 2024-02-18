@@ -1,0 +1,20 @@
+<form action="">
+  Username :<p></p>
+  <input  required
+  minlength="4"
+  type="text" 
+  class="in" 
+  ngModel 
+  name="uname" 
+   #un="ngModel">
+
+  <p>password:</p> <input  required
+  minlength="4"
+  type="password" 
+  class="in" 
+  ngModel 
+  name="psd" 
+   #p="ngModel">
+
+ <p> <button (click)="show(un,p)">Click</button> </p>
+</form>

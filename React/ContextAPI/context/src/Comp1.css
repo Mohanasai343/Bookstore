@@ -1,0 +1,7 @@
+.container{
+    width: 1755px;
+    height: 100px;
+    box-shadow: 1px 1px 1px 1px lightblue;
+    display: flex;
+    justify-content:space-around;
+}

@@ -1,0 +1,14 @@
+.comp_A{
+    border: 1px solid black;
+    width: 150px;
+    height: auto;
+    font-weight: 700;
+}
+
+.compA_text{
+    text-align: center;
+}
+
+.data_checkbox{
+    margin: 10px;
+}

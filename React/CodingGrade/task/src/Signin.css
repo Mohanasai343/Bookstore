@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    top: 100px;
+    box-shadow: 1px 1px 1px 1px ;
+}
+
+.user{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.sign{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+.password{
+    padding: 5px;
+    border-radius: 5px;
+}

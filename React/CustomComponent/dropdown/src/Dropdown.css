@@ -1,0 +1,38 @@
+.box{
+    width: 155px;
+    height: 50px;
+    margin: 10px;
+    background-color: #e5e9ed;
+    border-radius: 20px;
+    position: relative;
+}
+.lable{
+    display: flex;
+    justify-content: space-around;
+}
+.icon{
+    position:absolute;
+    left: 127px;
+    top: 15px;
+}
+.items{
+    position: absolute;
+    background-color: #FFF;
+    box-shadow: 3px 3px 10px 6px lightgray;
+    width:150px;
+}
+.drop_icon:hover{
+background-color: lightgray;
+cursor: pointer;
+}
+
+.select{
+    position: absolute;
+    top: 11px;
+    left: 14px;
+}
+
+.correct{
+   position: absolute;
+   left: 130px;
+}

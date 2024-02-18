@@ -1,0 +1,190 @@
+body{
+    position: absolute;
+ 
+}
+
+.image{
+    position: relative;
+    width: 45px;
+    height: 45px;
+    left: 14px;
+    top: 18px;
+}
+
+.searchbar{
+    position: relative;
+    box-sizing: border-box;
+  height: 56px;
+  width: 441.61px;
+  border: 1px solid #DAE1E7;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,0.06);
+  left: 357px;
+  bottom: 89px;
+  padding: 0px 38px;
+}
+
+.drop{
+    position: relative;
+    left: 237px;
+    bottom: 33px;
+    width: 100px;
+}
+
+.text{
+    position: relative;
+    height: 18px;
+    width: 80px;
+    color: #949DA5;
+    font-family: "Century Gothic";
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 18px;
+    left: 10px;
+}
+
+.arrow{
+    position: relative;
+    height: 21px;
+    width: 18.17px;
+    color: #9BA1A5;
+    font-family: "Material Design Icons";
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 23px;
+    left: 103px;
+    bottom: 34px;
+}
+
+.searchicon{
+    position: relative;
+    height: 26px;
+  width: 23.63px;
+  color: #949DA5;
+  font-family: "Material Design Icons";
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: center;
+  left: 315px;
+  bottom: 81px;
+}
+
+.switch{
+    position: relative;
+    height: 16px;
+    width: 31px;
+    border-radius: 100px;
+    left: 345px;
+    bottom: 87px;
+}
+
+.button{
+    position: relative;
+    height: 18px;
+  width: 117px;
+  color: #717982;
+  font-family: "Century Gothic";
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+  left: 365px;
+  bottom: 85px;
+}
+
+.info{
+    position: relative;
+    height: 18px;
+    width: 18px;
+    color: #9BA1A5;
+    font-family: "Material Design Icons";
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    left: 380px;
+    bottom: 81px;
+}
+
+.trail{
+    position: relative;
+    height: 25px;
+    width: 87px;
+    border-radius: 2px;
+    background-color: #F2F2F2;
+    left: 1030px;
+    bottom: 127px;
+}
+
+.subTrail{
+    position: relative;
+    height: 16px;
+    width: 73px;
+    color: #4D4D4D;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 16px;
+    left: 7px;
+}
+
+.error{
+    position: relative;
+    height: 24px;
+  width: 24px;
+  color: #4D4D4D;
+  font-family: "Material Design Icons";
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 26px;
+  left: 1142px;
+  bottom: 153px;
+}
+
+.bell{
+    position: relative;
+    height: 24px;
+    width: 24px;
+    color: #454B51;
+    font-family: "Material Design Icons";
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 26px;
+    left: 1180px;
+    bottom: 152px;
+}
+
+.message{
+    position: relative;
+    height: 24px;
+    width: 24px;
+    color: #454B51;
+    font-family: "Material Design Icons";
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 26px;
+    left: 1215px;
+    bottom: 152px;
+}
+
+.downarrow{
+    position: relative;
+    height: 26px;
+    width: 26px;
+    color: #454B51;
+    font-family: "Material Design Icons";
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    left: 1285px;
+    bottom: 153px;
+}
+
+.header{
+    position: relative;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.11);
+    height: 90px;
+    width: 1383px;
+    border-radius: 3px 0 0 0;
+}

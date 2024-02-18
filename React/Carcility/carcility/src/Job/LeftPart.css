@@ -1,0 +1,231 @@
+body{
+    position: absolute;
+}
+
+.leftdiv{
+    position: relative;
+    box-sizing: border-box;
+    height: 3318px;
+    width: 202px;
+    border: 2px solid #E7E7E7;
+    background-color: #FFFFFF;
+    box-shadow: 2px 0 6px 0 rgba(104,111,145,0.2)
+}
+
+.over{
+    position: relative;
+    height: 16px;
+    width: 60px;
+    color: #454B51;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 16px;
+    top: 25px;
+    left: 30px;
+}
+
+.speed{
+    position: relative;
+    height: 24px;
+    width: 24px;
+    color: #454B51;
+    top: 29px;
+    left: 12px;
+}
+
+.check{
+    position: relative;
+    height: 26px;
+    width: 26px;
+    color: #454B51;
+    font-family: "Material Design Icons";
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    top: 65px;
+    left: 12px;
+}
+
+.openjobs{
+    position: relative;
+    height: 16px;
+    width: 69px;
+    color: #454B51;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 16px;
+    top: 60px;
+    left: 30px;
+}
+
+.subleft{
+    position: relative;
+    height: 160px;
+    width: 68px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 30px;
+    top: 65px;
+    left: 60px;
+
+}
+
+.divjob{
+    position: relative;
+    height: 58px;
+    width: 198px;
+    background-color: #F8F8F8;
+    box-shadow: 2px 0 6px 0 rgba(104,111,145,0.2);
+    top: 88px;
+}
+
+.history{
+    position: relative;
+    height: 24px;
+    width: 24px;
+    color: #ED3124;
+    top: 18px;
+    left: 12px;
+}
+
+.jobhistory{
+    position: relative;
+    height: 16px;
+    width: 69px;
+    color: #ED3124;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 16px;
+    top: 10px;
+    left: 30px;
+}
+
+.inboxicon{
+    position: relative;
+    height: 26px;
+    width: 26px;
+    color: #334048;
+    font-family: "Material Design Icons";
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    top: 120px;
+    left: 12px;
+}
+
+.inboxtext{
+    position: relative;
+    height: 16px;
+    width: 36px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 16px;
+    top: 110px;
+    left: 30px;
+}
+
+.caricon{
+    position: relative;
+    height: 26px;
+    width: 26px;
+    color: #334048;
+    font-family: "Material Design Icons";
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    top: 145px;
+    left: 12px;
+}
+
+.vehicle{
+    position: relative;
+    height: 16px;
+    width: 77px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 16px;
+    top: 135px;
+    left: 30px;
+}
+
+.usericon{
+    position: relative;
+    height: 26px;
+    width: 26px;
+    color: #334048;
+    font-family: "Material Design Icons";
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    top: 165px;
+    left: 12px;
+}
+
+.usertext{
+    position: relative;
+    height: 16px;
+    width: 90px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 16px;
+    top:158px;
+    left: 30px;
+}
+
+.buildingicon{
+    position: relative;
+    height: 24px;
+    width: 24px;
+    color: #454B51;
+    top: 195px;
+    left: 12px;
+}
+
+.textbuilding{
+    position: relative;
+    height: 16px;
+    width: 105px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 16px;
+    top: 187px;
+    left: 30px;
+}
+
+.companytext{
+    position: relative;
+    height: 160px;
+    width: 113px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 25px;
+    top: 200px;
+    left: 55px;
+}
+

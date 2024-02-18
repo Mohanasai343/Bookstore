@@ -1,0 +1,79 @@
+.titles{
+    font-family: 'Montserrat'; 
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 50px;
+    height: 49px;
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
+}
+.ta1{
+    background-color: #ffffff;
+    height: 43px;
+    display: flex;
+    top: 49px;
+    border-radius: 0px;
+    padding: 16px;
+    justify-content: space-around;
+}
+.ta2{
+    background-color:#F7F6FE; 
+    height: 43px;
+    width: 1078px;
+    display: flex;
+    top: 49px;
+    border-radius: 0px;
+    padding: 16px;
+    justify-content: space-around;
+}
+
+
+.names{
+    height: 17px;
+    width: 139.75px;
+}
+
+.description{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100px;
+}
+
+.shoes{
+     color: #1F9254;
+     width: 98px;
+     height: 25px;
+     border-radius: 22px;
+     text-align: center;
+     background: #EBF9F1;;
+}
+
+.elect{
+    color: #CD6200;
+    width: 98px;
+    height: 25px;
+    border-radius: 22px;
+    text-align: center;
+    background: #FEF2E5;;
+}
+
+.clothes{
+    color: #A30D11;
+    width: 98px;
+    height: 25px;
+    border-radius: 22px;
+    text-align: center;
+    background: #FBE7E8;;
+}
+
+.others{
+    color: #d000ff;
+    width: 98px;
+    height: 25px;
+    border-radius: 22px;
+    text-align: center;
+    background-color:#f5ddc7;
+}

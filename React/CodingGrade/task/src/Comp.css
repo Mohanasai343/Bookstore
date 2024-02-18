@@ -1,0 +1,100 @@
+/* body{
+    background-image: url('https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.outer_div{
+    position: relative;
+    width: 450px;
+    height: 500px;
+    margin-left: 482px;
+    margin-top: 57px;
+    box-shadow: 0px 0px 15px 1px black;
+    background-color: rgb(55, 36, 173);
+    border-radius: 30px;
+}
+
+.contentdiv{
+    position: absolute;
+    top: -25px;
+}
+
+.subdiv{
+    position: absolute;
+    top: 50px;
+}
+
+.first{
+    position: absolute;
+    width: 139px;
+    padding: 15px;
+    border-radius: 5px;
+    top: 8px;
+    left: 36px;
+}
+
+.last{
+    position: absolute;
+    width: 139px;
+    padding: 15px;
+    border-radius: 5px;
+    top: 8px;
+    left: 240px;
+}
+
+.email{
+    position: absolute;
+    top: 140px;
+    left: 36px;
+    padding: 10px;
+    width: 353px;
+    border-radius: 5px;
+}
+
+.confirm{
+    position: absolute;
+    top: 206px;
+    left: 36px;
+    padding: 10px;
+    width: 353px;
+    border-radius: 5px;
+}
+
+.number{
+    position: absolute;
+    top: 275px;
+    left: 36px;
+    padding: 10px;
+    width: 353px;
+    border-radius: 5px;
+}
+
+.password{
+    position: absolute;
+    top: 343px;
+    left: 36px;
+    padding: 10px;
+    width: 353px;
+    border-radius: 5px;
+}
+
+.conform{
+    position: absolute;
+    top: 413px;
+    left: 36px;
+    padding: 10px;
+    width: 353px;
+    border-radius: 5px;
+}
+
+.submit{
+    background-color: red;
+    border-radius: 22px;
+    color: white;
+    position: absolute;
+    left: 125px;
+    bottom: 15px;
+    padding: 10px;
+    width: 200px;
+}

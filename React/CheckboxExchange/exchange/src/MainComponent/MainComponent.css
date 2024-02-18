@@ -1,0 +1,25 @@
+.component_div{
+    display: flex;
+    justify-content: center;
+    gap:100px;
+    position: relative;
+    top: 150px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+}
+
+.text_field{
+    width: 200px;
+    padding: 5px;
+    position:relative;
+    top: 100px;
+}
+
+.submit_btn{
+    position:relative;
+    top: 100px; 
+}

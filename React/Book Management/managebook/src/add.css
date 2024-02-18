@@ -1,0 +1,33 @@
+.content{
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 110px;
+    padding-right: 200px;
+}
+
+.name{
+    width: 300px;
+}
+
+.inputs{
+    text-align: start;
+    padding-top: 10px;
+}
+
+.submit{
+    background-color: black;
+    color: white;
+    width: 307px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.submit:disabled{
+    background-color: gainsboro;
+    color: grey;
+}
+
+.submit_div{
+    display: flex;
+    justify-content: center;
+}

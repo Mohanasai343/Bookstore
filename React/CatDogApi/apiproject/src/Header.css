@@ -1,0 +1,131 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+}
+
+.head{
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 1px 1px;
+}
+
+.home{
+    box-shadow: 0 0 1px 1px ;
+    color: blueviolet;
+}
+
+
+.favourite{
+    box-shadow: 0 0 1px 1px;
+    color: blueviolet;
+}
+
+.form{
+    box-shadow: 0 0 1px 1px;
+    color: blueviolet;
+}
+
+.info{
+    position: relative;
+    top: 2px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.about{
+    position: relative;
+    box-shadow: 0 0 1px 1px;
+    width: 300px;
+    height: 440px;
+    border-radius: 10px;
+    background-image: url(" https://media.istockphoto.com/id/1210341751/photo/happy-mixed-breed-dog-posing-with-a-kitten-on-his-head.jpg?s=612x612&w=0&k=20&c=W-XLvsyFNgl5tjAJ75a8vWdFLSeMOzHrr4j9GEjw3Zo=");
+    background-repeat:round;
+    left: 1060px;
+    top: -10px;
+    };
+
+
+.about:hover{
+    .dogbutton{ opacity: 0;}
+}
+
+.about h3{
+    color: rgb(20, 242, 17);
+}
+
+.about p{
+    color:rgb(219, 31, 31);
+    font-weight: 500;
+}
+
+.dogmain{
+    width: 1380px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container{
+    width: 301px;
+    height: 365px;
+    padding: 15px;
+    box-shadow: 0 0 1px 1px;
+    margin-top: 10px;
+    text-align: center;
+    margin: 22px 0 0 12px;
+}
+
+.images{
+    width: 300px;
+    height: 300px;
+}
+
+.dogcatbutton{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    box-shadow:1px 0 1px;
+}
+
+.homedogbutton{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+}
+
+.homecatbutton{
+    width: 100px;
+    background-color:blueviolet;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.dogbutton{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+}
+
+.catbutton{
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.fav{
+    margin-top: 15px;
+    background-color: red;
+    padding: 5px;
+    width: 100px;
+    border-radius: 15px;
+    color:white;
+    font-weight: 600;
+}

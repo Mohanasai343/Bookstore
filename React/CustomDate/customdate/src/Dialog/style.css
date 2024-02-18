@@ -1,0 +1,31 @@
+.dialogConatiner{
+    position: fixed;
+    background: rgba(0, 0, 0) ;
+    width: 100vw;
+    height: 100vh;
+    left:0;
+    top:0;
+    opacity: 0.8;
+}
+
+.dialogBox{
+    position: fixed;
+    background: #fff;
+    border-radius: 20px;
+    width: 666px;
+    height: 470px;
+    left: 30%;
+    top:4%;
+    padding: 20px;
+}
+
+.close{
+     width: 18px;
+    height: 18px;
+    color: #86868B;
+    border: none;
+    background-color: #fff;
+    font-size: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}

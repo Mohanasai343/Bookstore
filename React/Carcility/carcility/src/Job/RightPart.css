@@ -1,0 +1,246 @@
+.rightdiv{
+    position: absolute;
+    height: 775px;
+    width: 255px;
+    left: 1085px;
+    top: 110px;
+}
+
+.schedule{
+    position: relative;
+    height: 15px;
+    width: 73.7px;
+    color: #454B51;
+    font-family: "Century Gothic";
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    line-height: 15px;
+    top: 3px;
+}
+
+.calendericon{
+    position: relative;
+    height: 18px;
+    width: 18px;
+    color: #006FB9;
+    font-family: "Material Design Icons";
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: NaNpx;
+    left: 100px;
+    bottom: 15px;
+}
+
+.subdiv{
+    position: relative;
+    height: 17px;
+  width: 240px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.service{
+    position: relative;
+    height: 17px;
+    width: 49px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 17px;
+    top: 17px;
+}
+
+.wash{
+    position: relative;
+    height: 17px;
+    width: 49px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 17px;
+    top: 17px;
+}
+
+.repair{
+    position: relative;
+    height: 17px;
+    width: 43.82px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 17px;
+    top: 17px;
+}
+
+.green{
+    position: relative;
+    height: 10px;
+    width: 9.96px;
+    border-radius: 100px;
+    background-color: #00D9B7;
+    top: 21px;
+}
+
+.blue{
+    position: relative;
+    height: 10px;
+    width: 9.96px;
+    border-radius: 100px;
+    background-color: #195E8D;
+    top: 21px;
+}
+
+.orange{
+    position: relative;
+    height: 10px;
+    width: 9.96px;
+    border-radius: 100px;
+    background-color: #FAB15D;
+    top: 21px;
+}
+
+.today{
+    position: relative;
+    height: 14px;
+    width: 49.8px;
+    color: #454B51;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    top: 45px;
+}
+
+.time{
+    position: relative;
+    box-sizing: border-box;
+   
+   
+ 
+    background-color: #FFFFFF;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.11);
+    margin: 10px 0px;
+    top: 45px;
+}
+
+.divtime{
+    position: relative;
+    height: 14px;
+    width: 118px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 14px;
+    left: 26px;
+    top: 5px;
+}
+
+.divrepair{
+    position: relative;
+    height: 14px;
+    width: 195px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    top: 9px;
+    left: 26px;
+}
+
+.tomorrow{
+    position: relative;
+    height: 14px;
+    width: 86px;
+    color: #454B51;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    top: 110px;
+}
+
+.list{
+    position: relative;
+    box-sizing: border-box;
+  
+   
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.11);
+    margin: 10px 0px;
+    top: 110px;
+}
+
+.washcolorClass{
+    border: 1px solid #E7E7E7;
+    border-left: 4px solid #00D9B7;
+    border-radius: 3px;
+    margin-top: -44px;
+    height: 60px;
+    width: 255px;
+   border-radius: 3px 0 0 3px;
+   box-shadow: 0 0 1px 0 rgba(0,0,0,0.11);
+}
+
+.repaircolorClass{
+    border: 1px solid #E7E7E7;
+    border-left: 4px solid #4D83D2;
+    border-radius: 3px;
+    margin-top: -44px;
+    height: 60px;
+    width: 255px;
+   border-radius: 3px 0 0 3px;
+   box-shadow: 0 0 1px 0 rgba(0,0,0,0.11);
+}
+
+.servicecolor{
+    border: 1px solid #E7E7E7;
+    border-left: 4px solid #FAB15D;
+    border-radius: 3px;
+    margin-top: -44px;
+    height: 60px;
+    width: 255px;
+   border-radius: 3px 0 0 3px;
+   box-shadow: 0 0 1px 0 rgba(0,0,0,0.11);
+}
+
+.hiddentoday{
+    position: relative;
+    height: 16px;
+    width: 62px;
+    color: #006FB9;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-align: right;
+    top: 45px;
+    left: 200px;
+    cursor: pointer;
+}
+
+.hiddentomorrow{
+    position: relative;
+    height: 16px;
+    width: 62px;
+    color: #006FB9;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-align: right;
+    top: 115px;
+    left: 200px;
+    cursor: pointer;
+}
+
+.seconddiv{
+    margin-top: -30px;
+}
